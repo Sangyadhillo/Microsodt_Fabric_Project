@@ -1,2 +1,3 @@
-# Microsodt_Fabric_Project
-Microsoft_Fabric_Project
+# Project Title
+E-commerce Data Lakehouse using Microsoft Fabric with Medallion Architecture (Bronze-Silver-Gold)
+
