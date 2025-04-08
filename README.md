@@ -2,11 +2,17 @@
 
 # Tools & Technologies
 Microsoft Fabric
+
 Lakehouse Architecture
+
 Data Pipelines
+
 Dataflow Gen2
+
 Spark Notebooks
+
 Power BI (for final reporting)
+
 OLAP Warehouses
 
 # Project Overview
